@@ -1,0 +1,26 @@
+{
+  "name": "alibab_amazon",
+  "version": "1.0.0",
+  "description": "buy from alibaba,sell from amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepankar19/alibab_amazon.git"
+  },
+  "keywords": [
+    "amazon",
+    "alibaba",
+    "sell",
+    "buy",
+    "product."
+  ],
+  "author": "Deepankar Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepankar19/alibab_amazon/issues"
+  },
+  "homepage": "https://github.com/deepankar19/alibab_amazon#readme"
+}
